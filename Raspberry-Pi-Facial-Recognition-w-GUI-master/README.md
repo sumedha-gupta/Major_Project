@@ -4,8 +4,6 @@
 
 Using Python, OpenCV and a Raspberry Pi, I created a program that lets you add photos of a person, and the Raspberry Pi will detect their face.
 
-![alt text](https://media.giphy.com/media/eIyieq01EAYkQS7qsB/giphy.gif)
-
 ## Materials:
 - Raspberry Pi (used 4b for this project)
 - Pi Camera Module (used v2.1)
@@ -49,13 +47,10 @@ $ python3 faceDataset.py
 ```
 After running it, you should see a pop-up like this:
 
-![alt text](https://media.giphy.com/media/QBpSHY3JPTcgTb7YSn/giphy.gif)
-
 Enter the name of the person that is in the photos. If the name is not entered, the folder will not be created. This is the folder where all the images of that person will be stored and is required for further processing.
 
 An image capturing window will open. Click on Snapshot to take the photos. It will store a single image every time you click on Snapshot. Take at least 6-7 images in the different face position, for example straight, tilt and side pictures. Close the window when done.
 
-![alt text](https://media.giphy.com/media/QTxt4wb68v4W9zIOqN/giphy.gif)
 
 To create multiple people, repeat the steps.
 
@@ -68,7 +63,6 @@ $ python3 face_recognize.py
 ```
 After running a window will pop up like this:
 
-![alt text](https://media.giphy.com/media/UTf13jj0liZYTLf451/giphy.gif)
 
 After processing the images, the "Frame window" will open, when the camera detects the person's face, it will show the name of the person if its matches with the images in the database. Press Q on the keyboard to close the Frame window.
 
