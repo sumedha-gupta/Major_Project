@@ -65,14 +65,10 @@ After running a window will pop up like this:
 
 
 After processing the images, the "Frame window" will open, when the camera detects the person's face, it will show the name of the person if its matches with the images in the database. Press Q on the keyboard to close the Frame window.
-
-Congrats! You have built a Facial Recognition Camera with the Raspberry Pi.
-
-## Credits: 
-First off, thank you to <a href="https://hackclub.com"> Hack Club </a> for making this project a possibility. Also, full credit and a big thank you to Sharib Hasan for creating most of the code for this project. 
+Face Recoginition has been done now.
 
 ## Contact: 
-If you have any questions about this project my email is danielanapolsky@gmail.com
+If you have any questions about this project my email is mechanical.sumedha@gmail.com
 
 ---------------------------------------
 Thanks for checking my project out!
