@@ -4,7 +4,7 @@
   ![image](https://user-images.githubusercontent.com/68991561/160293671-d7a04654-cc78-4739-86a3-a7ad459d7c2f.png)
   FacePrep1 Image
 
-  ![image](https://user-images.githubusercontent.com/68991561/160293652-a599c2ec-35b0-41f7-9cf6-6488c7e99b8b.png)
+  ![image](https://github.com/sumedha-gupta/Major_Project/blob/main/Raspberry-Pi-Facial-Recognition-w-GUI-master/build/faceDataset/Face_result.png)
 
   Face_Prep1 Result
 
@@ -16,5 +16,5 @@
   Sumedha Gupta Data: 5oclock shadow: no, age: 27 (60%), arched eyebrows: no, attractive: no (61%), bags under eyes: no (73%), bald: no (75%), bangs: no (58%), beard: no, big lips: no, big nose: no, black hair: no (43%), blond hair: no (61%), blurry: yes, brown hair: yes (56%), bushy eyebrows: no, chubby: no (44%), double chin: no (75%), expression: smile (7%), gender: female (90%), glasses: no, goatee: no, gray hair: no (72%), heavy makeup: no (97%), high cheekbones: yes (5%), mouth open: no (75%), mustache: no, narrow eyes: no (31%), oval face: yes (76%), pale skin: no (65%), pitch: -8.33, pointy nose: no (84%), race: white, receding hairline: no (48%), rosy cheeks: no, sideburns: no, straight hair: yes (28%), wavy hair: no (44%), wearing earrings: no (67%), wearing hat: no (82%), wearing lipstick: no (61%), wearing necklace: no (43%), wearing necktie: no (94%), yaw: -1.8, young: yes (7%),
   Shriya Data: 5oclock shadow: no, age: 11 (60%), arched eyebrows: no, attractive: no (45%), bags under eyes: no (80%), bald: no (53%), bangs: no (28%), beard: no (86%), big lips: no (75%), big nose: no (77%), black hair: no (39%), blond hair: no (73%), blurry: yes (57%), brown hair: no (19%), bushy eyebrows: no (65%), chubby: no (49%), double chin: no (85%), expression: smile (31%), gender: female (52%), glasses: no, goatee: no (92%), gray hair: no (92%), heavy makeup: no (86%), high cheekbones: yes (8%), mouth open: no (29%), mustache: no (98%), narrow eyes: no (46%), oval face: yes (78%), pale skin: no (34%), pitch: -7.95, pointy nose: no (95%), race: white (99%), receding hairline: no (69%), rosy cheeks: no, sideburns: no, straight hair: no (17%), wavy hair: no (80%), wearing earrings: no (54%), wearing hat: yes (55%), wearing lipstick: no (70%), wearing necklace: no (41%), wearing necktie: no, yaw: 16.02, young: yes (73%),
 
-  ![image](https://user-images.githubusercontent.com/68991561/160293593-6405cf81-a2e0-4ce5-b1be-cc0b61c8b570.png)
+  ![image](https://github.com/sumedha-gupta/Major_Project/blob/main/Raspberry-Pi-Facial-Recognition-w-GUI-master/build/faceDataset/download.png)
   ## Face_Prep2 Result
